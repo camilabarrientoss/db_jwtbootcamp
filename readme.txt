@@ -1,8 +1,8 @@
 URL repositorio: 
-
+https://github.com/camilabarrientoss/db_jwtbootcamp
 
 Para clonar: 
-git clone 
+git clone https://github.com/camilabarrientoss/db_jwtbootcamp.git
 
 Crear base de datos:
 psql -U postgres
